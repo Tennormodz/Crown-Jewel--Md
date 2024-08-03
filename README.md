@@ -20,20 +20,20 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/tennormodz/Crown-Jewel-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK it🌚`](https://github.com/tennormodz/Crown-Jewel-Md/fork) It***
 
 ***2.`GET SESSION_ID BY`***
 
-i. [`SCANING QR 1`](https://scan-flash-md-ik5n.onrender.com) OR [`SCANNING QR 2 `](https://flash-md-qr.onrender.com)
+i. [`SCANING QR 1`](https://flazy-78fb5aa53dcb.herokuapp.com/) OR [`SCANNING QR 2 `](https://flazy-78fb5aa53dcb.herokuapp.com/)
 
-ii. [`PAIRING CODE 1 `](https://the-flash-md-sessions.onrender.com/pair) OR [`PAIRING CODE 2 `](https://flash-md-z6lm.onrender.com/pair)
+ii. [`PAIRING CODE 1 `](https://flazy-78fb5aa53dcb.herokuapp.com/) OR [`PAIRING CODE 2 `](https://flazy-78fb5aa53dcb.herokuapp.com/)
 
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 
-#### DEPLOY TO HEROKU 
+#### DEPLOY TO HEROKU NO BANS 😁💪
 **1. If You Don't Have An Account On Heroku**
 
 - <a align="center"><a href="https://signup.heroku.com">
