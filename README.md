@@ -8,13 +8,13 @@
     <img alt="CROWN JEWEL-MD" width="700" height="300" src="https://telegra.ph/file/7ababcae8552dd4aab093.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/tennormodz/Crown-Jewel-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Tennormodz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
+<a href="https://github.com/tennormodz/Crown-Jewel-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/tennormodz/Crown-Jewel-Md?&style=social"></a>
+<a href="https://github.com/tennormodz/Crown-Jewel-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/tennormodz/Crown-Jewel-Md?style=social"></a>
+<a href="https://github.com/tennormodz/Crown-Jewel-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/tennormodz/Crown-Jewel-Md?label=Watching&style=social"></a>
   
 ***
 
